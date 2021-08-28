@@ -4,7 +4,10 @@ title: Teaching
 permalink: /Teaching/
 author_profile: true
 ---
-#### Graduate Teaching Assistant at UCLA 
+
+{% include base_path %}
+
+## Graduate Teaching Assistant at UCLA 
 
 | Course ID | Name | Quarter |
 | :--------: |:-----------------:| :----------:|
