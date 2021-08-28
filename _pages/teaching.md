@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Graduate Teaching Assistant at UCLA 
+#### Graduate Teaching Assistant at UCLA 
 
 | Course ID | Name | Quarter |
 | :--------: |:-----------------:| :----------:|
