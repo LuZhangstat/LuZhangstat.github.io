@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -9,7 +8,7 @@ author_profile: true
 
 My research interests span the topics of statistical modeling and analysis for geographically referenced data, Bayesian statistics (theory and methods), statistical computing and related software development.
 
-## Publications (\* co-first author)
+## Publications 
 
 Tang, W.\*, **Zhang, L.**\*, & Banerjee, S. On identifiability and consistency of the nugget in Gaussian spatial process models. *Journal of the Royal Statistical Society Series B, accepted* [arXiv preprint](https://arxiv.org/abs/1908.05726)
 
@@ -35,6 +34,7 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 
 **Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. Pathfinder: Parallel quasi-Newton variational inference *Submitted* [arXiv preprint](https://arxiv.org/abs/2108.03782)
 
+(\* co-first author)
 
 ## Notes
 
