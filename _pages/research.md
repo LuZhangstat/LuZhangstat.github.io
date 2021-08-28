@@ -40,7 +40,7 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 
 Stan case study of Nearest neighbor Gaussian process (NNGP) based models [link](http://mc-stan.org/users/documentation/case-studies/nngp.html)
 
-A Note on using Kullback-Leibler Divergence to compare the performance of some Nearest Neighbor Gaussian Process (NNGP) based models [link](../files/KL-D_com.html) <span class="note">(HTML)</span>
+A Note on using Kullback-Leibler Divergence to compare the performance of some Nearest Neighbor Gaussian Process (NNGP) based models [link](KL-D_com.html) <span class="note">(HTML)</span>
 
 ## Packages
 * [JALAJni](https://github.com/JaLAJni/JaLAJni)
