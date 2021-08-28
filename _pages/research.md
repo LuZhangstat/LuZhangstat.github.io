@@ -7,16 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Research Interests
-
-* Statistical modeling and analysis of geographically referenced datasets.
-
-* Bayesian statistics (theory and methods) and hierarchical modelling.
-
-* Statistical computing and related software development.
-
-
-## Papers 
+## Publications
 
 **Zhang, L.** & Banerjee, S., (2021). Spatial factor modeling: A Bayesian matrix‐normal approach for misaligned data. *Biometrics*. [link](http://dx.doi.org/10.1111/biom.13452)
 
