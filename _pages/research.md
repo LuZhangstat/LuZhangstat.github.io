@@ -32,7 +32,7 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 
 **Zhang, L.**\*, Tang, W.\* & Banerjee, S. Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. *Submitted* [arXiv preprint](https://arxiv.org/abs/2101.08861)
 
-**Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. Pathfinder: Parallel quasi-Newton variational inference *Submitted* [arXiv preprint](https://arxiv.org/abs/2108.03782)
+**Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. Pathfinder: Parallel quasi-Newton variational inference *Under revision at Journal of Machine Learning Research* [arXiv preprint](https://arxiv.org/abs/2108.03782)
 
 (\* co-first author)
 
