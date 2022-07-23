@@ -34,6 +34,8 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 
 **Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. Pathfinder: Parallel quasi-Newton variational inference *Under revision at Journal of Machine Learning Research* [arXiv preprint](https://arxiv.org/abs/2108.03782)
 
+**Zhang, L.** Applications of Conjugate Gradient in Bayesian computation. *Submitted*
+
 (\* co-first author)
 
 ## Notes
