@@ -10,11 +10,11 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 
-**Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. (2022) Pathfinder: Parallel quasi-Newton variational inference *Journal of Machine Learning Research, Accepted* [arXiv preprint](https://arxiv.org/abs/2108.03782)
+**Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. (2022) Pathfinder: Parallel quasi-Newton variational inference *Journal of Machine Learning Research, Accepted.* [arXiv preprint](https://arxiv.org/abs/2108.03782)
 
-**Zhang, L.** (2022) Applications of Conjugate Gradient in Bayesian computation. *Wiley StatsRef-Statistics Reference Online, Accepted*
+**Zhang, L.** (2022) Applications of Conjugate Gradient in Bayesian computation. *Wiley StatsRef-Statistics Reference Online, Accepted.*
 
-Tang, W.\*, **Zhang, L.**\*, & Banerjee, S. (2021) On identifiability and consistency of the nugget in Gaussian spatial process models. *Journal of the Royal Statistical Society Series B* [link](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12472?casa_token=ffKWWdRcgpkAAAAA:oISkAvRSbQlGJfsh6vbQQkPWFyBnhYYli9cuyGpFBgsscaw6HC0AAwNCYlxo1H76djeHDCR8qiggR9hW)
+Tang, W.\*, **Zhang, L.**\*, & Banerjee, S. (2021) On identifiability and consistency of the nugget in Gaussian spatial process models. *Journal of the Royal Statistical Society Series B* [link](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12472)
 
 
 **Zhang, L.** & Banerjee, S. (2021). Spatial factor modeling: A Bayesian matrix‐normal approach for misaligned data. *Biometrics*. [link](http://dx.doi.org/10.1111/biom.13452)
