@@ -10,9 +10,9 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 
-**Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. (2022) Pathfinder: Parallel quasi-Newton variational inference *Journal of Machine Learning Research, Accepted.* [arXiv preprint](https://arxiv.org/abs/2108.03782)
+**Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. (2022) Pathfinder: Parallel quasi-Newton variational inference *Journal of Machine Learning Research* [link](https://www.jmlr.org/papers/volume23/21-0889/21-0889.pdf)
 
-**Zhang, L.** (2022) Applications of Conjugate Gradient in Bayesian computation. *Wiley StatsRef-Statistics Reference Online, Accepted.*
+**Zhang, L.** (2022) Applications of Conjugate Gradient in Bayesian computation. *Wiley StatsRef-Statistics Reference Online* [link](https://doi.org/10.1002/9781118445112.stat08411)
 
 Tang, W.\*, **Zhang, L.**\*, & Banerjee, S. (2021) On identifiability and consistency of the nugget in Gaussian spatial process models. *Journal of the Royal Statistical Society Series B* [link](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12472)
 
@@ -23,7 +23,7 @@ Tang, W.\*, **Zhang, L.**\*, & Banerjee, S. (2021) On identifiability and consis
 **Zhang, L.**, Banerjee, S. & Finley, A. O. (2021). High‐dimensional multivariate geostatistics: A Bayesian matrix‐normal approach. *Environmetrics*. [link](https://doi.org/10.1002%2Fenv.2675)
 
 
-Watson, G.L., Xiong, D., **Zhang, L.**, Zoller, J.A., Shamshoian, J., Sundin, P., Bufford, T., Rimoin, A.W., Suchard, M.A. and Ramirez, C.M., (2021+). Pandemic velocity: forecasting COVID-19 in the US with a machine learning & Bayesian time series compartmental model. *PLOS Computational Biology, accepted*. [prepint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3594606)
+Watson, G.L., Xiong, D., **Zhang, L.**, Zoller, J.A., Shamshoian, J., Sundin, P., Bufford, T., Rimoin, A.W., Suchard, M.A. and Ramirez, C.M., (2021). Pandemic velocity: forecasting COVID-19 in the US with a machine learning & Bayesian time series compartmental model. *PLOS Computational Biology*. [prepint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3594606)
 
 
 Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A., Shamshoian, J., Suchard, M.A. and Ramirez, C.M., (2020). Pseudo-likelihood based logistic regression for estimating COVID-19 infection and case fatality rates by gender, race, and age in California. *Epidemics* [link](https://www.sciencedirect.com/science/article/pii/S1755436520300396)
