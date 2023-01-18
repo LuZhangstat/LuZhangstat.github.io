@@ -10,6 +10,8 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 
+**Zhang, L.**\*, Tang, W.\* & Banerjee, S. (2023+) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. *Statistica Sinica* (accepted) [arXiv preprint](https://arxiv.org/abs/2101.08861)
+
 **Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. (2022) Pathfinder: Parallel quasi-Newton variational inference *Journal of Machine Learning Research* [link](https://www.jmlr.org/papers/volume23/21-0889/21-0889.pdf)
 
 **Zhang, L.** (2022) Applications of Conjugate Gradient in Bayesian computation. *Wiley StatsRef-Statistics Reference Online* [link](https://doi.org/10.1002/9781118445112.stat08411)
@@ -30,11 +32,6 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 
 
 **Zhang, L.**, Datta, A. & Banerjee, S. (2019). Practical Bayesian modeling and inference for massive spatial data sets on modest computing environments. *Statistical Analysis and Data Mining: The ASA Data Science Journal* [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11413)
-
-
-## Preprints
-
-**Zhang, L.**\*, Tang, W.\* & Banerjee, S. Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. *Submitted* [arXiv preprint](https://arxiv.org/abs/2101.08861)
 
 
 
