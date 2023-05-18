@@ -33,6 +33,9 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 
 **Zhang, L.**, Datta, A. & Banerjee, S. (2019). Practical Bayesian modeling and inference for massive spatial data sets on modest computing environments. *Statistical Analysis and Data Mining: The ASA Data Science Journal* [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11413)
 
+## Preprints
+**Zhang, L.**, Tang, W. & Banerjee, S. Exact Bayesian Geostatistics Using Predictive Stacking. [arXiv preprint](https://arxiv.org/abs/2304.12414)
+
 
 
 (\* co-first author)
