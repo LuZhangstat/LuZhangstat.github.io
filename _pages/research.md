@@ -37,16 +37,16 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 **Zhang, L.**, Tang, W. & Banerjee, S. Exact Bayesian Geostatistics Using Predictive Stacking. [arXiv preprint](https://arxiv.org/abs/2304.12414)
 
 
-Sparkes, S.\dagger & **Zhang, L.**. Properties and Deviations of Random Sums of Densely Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
+Sparkes, S.&dagger & **Zhang, L.**. Properties and Deviations of Random Sums of Densely Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
 
-Liu, S.\dagger & **Zhang, L.**. Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction.
+Liu, S.&dagger & **Zhang, L.**. Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction.
 
 **Zhang, L.**, Finley, A., Nothdurft, A. & Banerjee, S. Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, [arXiv preprint](https://arxiv.org/abs/2311.11256)
 
-Sparkes, S.\dagger, Garcia, E. & **Zhang, L.**. The functional average treatment effect, [arXiv preprint](https://arxiv.org/abs/2312.00219)
+Sparkes, S.&dagger, Garcia, E. & **Zhang, L.**. The functional average treatment effect, [arXiv preprint](https://arxiv.org/abs/2312.00219)
 
 
-(\* co-first author, \dagger students mentored by me)
+(\* co-first author, &dagger students mentored by me)
 
 ## Notes
 
