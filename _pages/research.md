@@ -10,7 +10,9 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 
-**Zhang, L.**\*, Tang, W.\* & Banerjee, S. (2023+) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. *Statistica Sinica* (accepted) [arXiv preprint](https://arxiv.org/abs/2101.08861)
+Liu, S.† & **Zhang, L.**. Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction. (2024+) *IEEE Geoscience and Remote Sensing Letters* (accepted) 
+
+**Zhang, L.**\*, Tang, W.\* & Banerjee, S. (2023) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. *Statistica Sinica* [link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0428_na.pdf)
 
 **Zhang, L.**, Carpenter, B., Gelman, A. & Vehtari, A. (2022) Pathfinder: Parallel quasi-Newton variational inference *Journal of Machine Learning Research* [link](https://www.jmlr.org/papers/volume23/21-0889/21-0889.pdf)
 
@@ -39,7 +41,6 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 
 Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Densely Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
 
-Liu, S.† & **Zhang, L.**. Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction.
 
 **Zhang, L.**, Finley, A., Nothdurft, A. & Banerjee, S. Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, [arXiv preprint](https://arxiv.org/abs/2311.11256)
 
