@@ -10,7 +10,8 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 
-Liu, S.† & **Zhang, L.**. Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction. (2024+) *IEEE Geoscience and Remote Sensing Letters* (accepted) 
+Liu, S.† & **Zhang, L.**. Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction. (2024) *IEEE Geoscience and Remote Sensing Letters*
+[link](https://ieeexplore.ieee.org/document/10526362)
 
 **Zhang, L.**\*, Tang, W.\* & Banerjee, S. (2023) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. *Statistica Sinica* [link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0428_na.pdf)
 
@@ -46,6 +47,11 @@ Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Dens
 
 Sparkes, S.†, Garcia, E. & **Zhang, L.**. The functional average treatment effect, [arXiv preprint](https://arxiv.org/abs/2312.00219)
 
+Pan, S., **Zhang, L.**, Bradley, J., Banerjee, S. Bayesian
+Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking,
+[arXiv preprint](https://arxiv.org/abs/2406.04655) 
+
+Magnusson, M., Torgander, J., Bürkner, P., **Zhang, L.**, Carpenter, B., Vehtari, A. posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. [arXiv preprint](https://arxiv.org/abs/2407.04967)
 
 (\* co-first author, † students mentored by me)
 
