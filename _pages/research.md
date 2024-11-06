@@ -10,7 +10,14 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 
-Liu, S.† & **Zhang, L.**. Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction. (2024) *IEEE Geoscience and Remote Sensing Letters*
+**Zhang, L.**, Finley, A., Nothdurft, A. & Banerjee, S. (2024) 
+Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, 
+*International Journal of Applied Earth Observation and Geoinformation*
+[link](https://www.sciencedirect.com/science/article/pii/S1569843224005806 )
+
+Sparkes, S.†, Garcia, E. & **Zhang, L.** (2024). The functional average treatment effect. Accepted by *Journal of Causal Inference* [arXiv preprint](https://arxiv.org/abs/2312.00219)
+
+Liu, S.† & **Zhang, L.** (2024) Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction. *IEEE Geoscience and Remote Sensing Letters*
 [link](https://ieeexplore.ieee.org/document/10526362)
 
 **Zhang, L.**\*, Tang, W.\* & Banerjee, S. (2023) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. *Statistica Sinica* [link](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0428_na.pdf)
@@ -43,15 +50,24 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Densely Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
 
 
-**Zhang, L.**, Finley, A., Nothdurft, A. & Banerjee, S. Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, [arXiv preprint](https://arxiv.org/abs/2311.11256)
-
-Sparkes, S.†, Garcia, E. & **Zhang, L.**. The functional average treatment effect, [arXiv preprint](https://arxiv.org/abs/2312.00219)
-
 Pan, S., **Zhang, L.**, Bradley, J., Banerjee, S. Bayesian
 Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking,
 [arXiv preprint](https://arxiv.org/abs/2406.04655) 
 
 Magnusson, M., Torgander, J., Bürkner, P., **Zhang, L.**, Carpenter, B., Vehtari, A. posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. [arXiv preprint](https://arxiv.org/abs/2407.04967)
+
+Li, S., Oliva, P., **Zhang, L.**, Goodrich, J., McConnell, R., Conti, D., 
+Chatzi, L. & Aung, M.. Associations between per-and polyfluoroalkyl substances 
+(PFAS) and county-level cancer incidence and incident cancer burden attributable 
+to PFAS in drinking water in the United States. 
+
+Guo, F., Chen, X., Howland, S., Niu, Z., **Zhang, L.**, Gauderman, J., McConnell, R., 
+Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S.. 
+Childhood air pollution exposure and insulin resistance in young adulthood: 
+Exploring the mediating role of BMI growth trajectories. 
+
+Liu, S.†, Wang, S., **Zhang L.**. Daily land surface temperature reconstruction 
+in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. 
 
 (\* co-first author, † students mentored by me)
 
