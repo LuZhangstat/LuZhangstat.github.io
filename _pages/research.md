@@ -10,12 +10,23 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 
+Magnusson, M., Torgander, J., Bürkner, P., **Zhang, L.**, Carpenter, B., Vehtari, A. (2025) posteriordb: 
+Testing, Benchmarking and Developing Bayesian Inference Algorithms. 
+*AISTATS 2025 oral presentation (Top 2%).* [arXiv preprint](https://arxiv.org/abs/2407.04967)
+
+Li, S., Oliva, P., **Zhang, L.**, Goodrich, J., McConnell, R., Conti, D., 
+Chatzi, L. & Aung, M. (2025). Associations between per-and polyfluoroalkyl substances 
+(PFAS) and county-level cancer incidence and incident cancer burden attributable 
+to PFAS in drinking water in the United States. 
+*Journal of Exposure Science and Environmental Epidemiology.* In Press
+
 **Zhang, L.**, Finley, A., Nothdurft, A. & Banerjee, S. (2024) 
 Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, 
 *International Journal of Applied Earth Observation and Geoinformation*
 [link](https://www.sciencedirect.com/science/article/pii/S1569843224005806 )
 
-Sparkes, S.†, Garcia, E. & **Zhang, L.** (2024). The functional average treatment effect. Accepted by *Journal of Causal Inference* [arXiv preprint](https://arxiv.org/abs/2312.00219)
+Sparkes, S.†, Garcia, E. & **Zhang, L.** (2024). The functional average treatment effect. 
+*Journal of Causal Inference* [link](https://www.degruyter.com/document/doi/10.1515/jci-2023-0076/html)
 
 Liu, S.† & **Zhang, L.** (2024) Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction. *IEEE Geoscience and Remote Sensing Letters*
 [link](https://ieeexplore.ieee.org/document/10526362)
@@ -46,20 +57,11 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 ## Preprints
 **Zhang, L.**, Tang, W. & Banerjee, S. Exact Bayesian Geostatistics Using Predictive Stacking. [arXiv preprint](https://arxiv.org/abs/2304.12414)
 
-
 Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Densely Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
-
 
 Pan, S., **Zhang, L.**, Bradley, J., Banerjee, S. Bayesian
 Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking,
 [arXiv preprint](https://arxiv.org/abs/2406.04655) 
-
-Magnusson, M., Torgander, J., Bürkner, P., **Zhang, L.**, Carpenter, B., Vehtari, A. posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. [arXiv preprint](https://arxiv.org/abs/2407.04967)
-
-Li, S., Oliva, P., **Zhang, L.**, Goodrich, J., McConnell, R., Conti, D., 
-Chatzi, L. & Aung, M.. Associations between per-and polyfluoroalkyl substances 
-(PFAS) and county-level cancer incidence and incident cancer burden attributable 
-to PFAS in drinking water in the United States. 
 
 Guo, F., Chen, X., Howland, S., Niu, Z., **Zhang, L.**, Gauderman, J., McConnell, R., 
 Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S.. 
