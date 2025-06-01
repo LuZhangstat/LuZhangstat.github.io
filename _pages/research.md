@@ -9,16 +9,22 @@ author_profile: true
 My research interests span the topics of statistical modeling and analysis for geographically referenced data, Bayesian statistics (theory and methods), statistical computing and related software development.
 
 ## Publications 
+Guo, F., Chen, X., Howland, S., Niu, Z., **Zhang, L.**, Gauderman, J., McConnell, R., 
+Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S.. (2025)
+Childhood Exposure to Air Pollution, Body Mass Index Trajectories, and Insulin Resistance Among Young Adults.
+*JAMA Network Open* [link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833125) 
 
 Magnusson, M., Torgander, J., Bürkner, P., **Zhang, L.**, Carpenter, B., Vehtari, A. (2025) posteriordb: 
 Testing, Benchmarking and Developing Bayesian Inference Algorithms. 
-*AISTATS 2025 oral presentation (Top 2%).* [arXiv preprint](https://arxiv.org/abs/2407.04967)
+*AISTATS 2025 oral presentation (Top 2%).* [link](https://proceedings.mlr.press/v258/magnusson25a.html)
 
 Li, S., Oliva, P., **Zhang, L.**, Goodrich, J., McConnell, R., Conti, D., 
-Chatzi, L. & Aung, M. (2025). Associations between per-and polyfluoroalkyl substances 
-(PFAS) and county-level cancer incidence and incident cancer burden attributable 
-to PFAS in drinking water in the United States. 
-*Journal of Exposure Science and Environmental Epidemiology.* In Press
+Chatzi, L. & Aung, M. (2025). Associations between per-and polyfluoroalkyl 
+substances (PFAS) and county-level cancer incidence between 2016 and 2021 and 
+incident cancer burden attributable to PFAS in drinking water in the United States.
+*Journal of Exposure Science & Environmental Epidemiology* 
+[link](https://www.nature.com/articles/s41370-024-00742-2)
+
 
 **Zhang, L.**, Finley, A., Nothdurft, A. & Banerjee, S. (2024) 
 Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, 
@@ -55,21 +61,23 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 **Zhang, L.**, Datta, A. & Banerjee, S. (2019). Practical Bayesian modeling and inference for massive spatial data sets on modest computing environments. *Statistical Analysis and Data Mining: The ASA Data Science Journal* [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11413)
 
 ## Preprints
-**Zhang, L.**, Tang, W. & Banerjee, S. Exact Bayesian Geostatistics Using Predictive Stacking. [arXiv preprint](https://arxiv.org/abs/2304.12414)
+**Zhang, L.**, Tang, W. & Banerjee, S. Bayesian Geostatistics Using Predictive Stacking. 
+[arXiv preprint](https://arxiv.org/abs/2304.12414)
 
-Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Densely Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
+Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Densely 
+Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
 
 Pan, S., **Zhang, L.**, Bradley, J., Banerjee, S. Bayesian
 Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking,
 [arXiv preprint](https://arxiv.org/abs/2406.04655) 
 
-Guo, F., Chen, X., Howland, S., Niu, Z., **Zhang, L.**, Gauderman, J., McConnell, R., 
-Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S.. 
-Childhood air pollution exposure and insulin resistance in young adulthood: 
-Exploring the mediating role of BMI growth trajectories. 
-
 Liu, S.†, Wang, S., **Zhang L.**. Daily land surface temperature reconstruction 
 in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. 
+[arXiv preprint](https://arxiv.org/abs/2502.14433)
+
+Liu, S.†, Wang, S., **Zhang L.**. Uncertainty-Aware Hourly Air Temperature Mapping 
+at 2 km Resolution via Physics-Guided Deep Learning. 
+
 
 (\* co-first author, † students mentored by me)
 
