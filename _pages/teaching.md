@@ -6,6 +6,14 @@ author_profile: true
 
 {% include base_path %}
 
+### Instructor at USC
+
+| Course ID | Name | Quarter |
+| :--------: |:-----------------:| :----------:|
+| PM 511a | **Data Analysis (a)** | Summer 2024, Summer 2025 |
+| PM 569 | **Spatial Statistics** | Fall 2023 |
+
+
 ### Graduate Teaching Assistant at UCLA 
 
 | Course ID | Name | Quarter |
