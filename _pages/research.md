@@ -9,6 +9,9 @@ author_profile: true
 My research interests span the topics of statistical modeling and analysis for geographically referenced data, Bayesian statistics (theory and methods), statistical computing and related software development.
 
 ## Publications 
+Liu, S.†, **Zhang L.**, Wang, S. End-to-End Reconstruction of High-Resolution 
+Temperature Data Using Physics-Guided Deep Learning. Accepted by *ICML workshop 2025*. 
+
 Guo, F., Chen, X., Howland, S., Niu, Z., **Zhang, L.**, Gauderman, J., McConnell, R., 
 Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S.. (2025)
 Childhood Exposure to Air Pollution, Body Mass Index Trajectories, and Insulin Resistance Among Young Adults.
@@ -77,6 +80,10 @@ in Landsat cross-track areas using deep ensemble learning with uncertainty quant
 
 Liu, S.†, Wang, S., **Zhang L.**. Uncertainty-Aware Hourly Air Temperature Mapping 
 at 2 km Resolution via Physics-Guided Deep Learning. 
+
+**Zhang L.**. ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian 
+Spatial Factor Models with Application to Spatial Transcriptomics.
+[arXiv preprint](https://arxiv.org/abs/2506.01098)
 
 
 (\* co-first author, † students mentored by me)
