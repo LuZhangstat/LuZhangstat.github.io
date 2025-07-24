@@ -64,26 +64,35 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 **Zhang, L.**, Datta, A. & Banerjee, S. (2019). Practical Bayesian modeling and inference for massive spatial data sets on modest computing environments. *Statistical Analysis and Data Mining: The ASA Data Science Journal* [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11413)
 
 ## Preprints
-**Zhang, L.**, Tang, W. & Banerjee, S. Bayesian Geostatistics Using Predictive Stacking. 
-[arXiv preprint](https://arxiv.org/abs/2304.12414)
+**Zhang L.**. ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian 
+Spatial Factor Models with Application to Spatial Transcriptomics.
+[arXiv preprint](https://arxiv.org/abs/2506.01098), 2025
 
-Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Densely 
-Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554)
-
-Pan, S., **Zhang, L.**, Bradley, J., Banerjee, S. Bayesian
-Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking,
-[arXiv preprint](https://arxiv.org/abs/2406.04655) 
+Liu, S.†, Wang, S., **Zhang L.**. Uncertainty-Aware Hourly Air Temperature Mapping 
+at 2 km Resolution via Physics-Guided Deep Learning, 2025
 
 Liu, S.†, Wang, S., **Zhang L.**. Daily land surface temperature reconstruction 
 in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. 
-[arXiv preprint](https://arxiv.org/abs/2502.14433)
+[arXiv preprint](https://arxiv.org/abs/2502.14433), 2025
 
-Liu, S.†, Wang, S., **Zhang L.**. Uncertainty-Aware Hourly Air Temperature Mapping 
-at 2 km Resolution via Physics-Guided Deep Learning. 
+Pan, S., **Zhang, L.**, Bradley, J., Banerjee, S. Bayesian
+Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking,
+[arXiv preprint](https://arxiv.org/abs/2406.04655), 2024
 
-**Zhang L.**. ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian 
-Spatial Factor Models with Application to Spatial Transcriptomics.
-[arXiv preprint](https://arxiv.org/abs/2506.01098)
+Sparkes, S.† & **Zhang, L.**. Properties and Deviations of Random Sums of Densely 
+Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554), 2023
+
+**Zhang, L.**, Tang, W. & Banerjee, S. Bayesian Geostatistics Using Predictive Stacking. 
+[arXiv preprint](https://arxiv.org/abs/2304.12414), 2023
+
+
+
+
+
+
+
+
+
 
 
 (\* co-first author, † students mentored by me)
