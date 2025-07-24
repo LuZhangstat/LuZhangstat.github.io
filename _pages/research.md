@@ -10,7 +10,7 @@ My research interests span the topics of statistical modeling and analysis for g
 
 ## Publications 
 Liu, S.†, **Zhang L.**, Wang, S. End-to-End Reconstruction of High-Resolution 
-Temperature Data Using Physics-Guided Deep Learning. Accepted by *ICML workshop 2025*. 
+Temperature Data Using Physics-Guided Deep Learning. *ICML workshop 2025* [link](https://openreview.net/forum?id=zMIlyzDf3p). 
 
 Guo, F., Chen, X., Howland, S., Niu, Z., **Zhang, L.**, Gauderman, J., McConnell, R., 
 Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S.. (2025)
