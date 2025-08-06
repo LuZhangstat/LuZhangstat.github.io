@@ -28,7 +28,6 @@ incident cancer burden attributable to PFAS in drinking water in the United Stat
 *Journal of Exposure Science & Environmental Epidemiology* 
 [link](https://www.nature.com/articles/s41370-024-00742-2)
 
-
 **Zhang, L.**, Finley, A., Nothdurft, A. & Banerjee, S. (2024) 
 Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, 
 *International Journal of Applied Earth Observation and Geoinformation*
@@ -64,12 +63,15 @@ Xiong, D.\*, **Zhang, L.**\*, Watson, G.L., Sundin, P., Bufford, T., Zoller, J.A
 **Zhang, L.**, Datta, A. & Banerjee, S. (2019). Practical Bayesian modeling and inference for massive spatial data sets on modest computing environments. *Statistical Analysis and Data Mining: The ASA Data Science Journal* [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11413)
 
 ## Preprints
+Lu, Y., Zhang, X., Neyestani, S., Li, X., Jing, L., **Zhang, L.**, Habre, R., Zhang, J.. Assessing Indoor Versus Outdoor PM2.5 Concentrations During the 2025 Los Angeles Fires Using the PurpleAir Sensor Network.  
+[earth arXiv](https://eartharxiv.org/repository/view/9692/), 2025
+
+Liu, S.†, Wang, S., **Zhang L.**. Resolution Revolution: A Physics-Guided Deep Learning Framework for Spatiotemporal Temperature Reconstruction.
+[arXiv preprint](https://arxiv.org/pdf/2507.09872v1), 2025
+
 **Zhang L.**. ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian 
 Spatial Factor Models with Application to Spatial Transcriptomics.
 [arXiv preprint](https://arxiv.org/abs/2506.01098), 2025
-
-Liu, S.†, Wang, S., **Zhang L.**. Uncertainty-Aware Hourly Air Temperature Mapping 
-at 2 km Resolution via Physics-Guided Deep Learning, 2025
 
 Liu, S.†, Wang, S., **Zhang L.**. Daily land surface temperature reconstruction 
 in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. 
@@ -84,13 +86,6 @@ Dependent Random Variables, [arXiv preprint](https://arxiv.org/abs/2310.11554), 
 
 **Zhang, L.**, Tang, W. & Banerjee, S. Bayesian Geostatistics Using Predictive Stacking. 
 [arXiv preprint](https://arxiv.org/abs/2304.12414), 2023
-
-
-
-
-
-
-
 
 
 
