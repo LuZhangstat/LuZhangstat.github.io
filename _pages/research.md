@@ -9,6 +9,11 @@ author_profile: true
 My research interests span the topics of statistical modeling and analysis for geographically referenced data, Bayesian statistics (theory and methods), statistical computing and related software development.
 
 ## Publications 
+
+Liu, S.†, **Zhang L.**, Wang, S. A novel and practical approach to generate 
+all-weather 30-meter land surface temperature data. 
+*IGARSS 2025 (3rd place out of 340+ submissions in the student paper competition)*  
+
 Liu, S.†, **Zhang L.**, Wang, S. End-to-End Reconstruction of High-Resolution 
 Temperature Data Using Physics-Guided Deep Learning. *ICML workshop 2025* [link](https://openreview.net/forum?id=zMIlyzDf3p). 
 
