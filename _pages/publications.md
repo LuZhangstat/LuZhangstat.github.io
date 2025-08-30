@@ -26,21 +26,22 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h4>2025</h4>
   <ul>
-    <li><strong>Zhang L.</strong> ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian Spatial Factor Models with Application to Spatial Transcriptomics. <a href="https://arxiv.org/abs/2506.01098">[arXiv preprint]</a>, 2025</li>
+    <li>Lu, Y., Zhang, X., Neyestani, S., Li, X., Jing, L., <strong>Zhang, L.</strong>, Habre, R., Zhang, J. Assessing Indoor Versus Outdoor PM2.5 Concentrations During the 2025 Los Angeles Fires Using the PurpleAir Sensor Network. <a href="https://eartharxiv.org/repository/view/9692/">[earth arXiv]</a>, 2025</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. A novel and practical approach to generate all-weather 30-meter land surface temperature data. <em>IGARSS 2025</em> (3rd place out of 340+ submissions in the student paper competition)</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. End-to-End Reconstruction of High-Resolution Temperature Data Using Physics-Guided Deep Learning. <em>ICML workshop 2025</em> <a href="https://openreview.net/forum?id=zMIlyzDf3p">[link]</a></li>
-    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> Resolution Revolution: A Physics-Guided Deep Learning Framework for Spatiotemporal Temperature Reconstruction. <a href="https://arxiv.org/pdf/2507.09872v1">[arXiv preprint]</a>, 2025</li>
-    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a>, 2025</li>
-    <li>Lu, Y., Zhang, X., Neyestani, S., Li, X., Jing, L., <strong>Zhang, L.</strong>, Habre, R., Zhang, J. Assessing Indoor Versus Outdoor PM2.5 Concentrations During the 2025 Los Angeles Fires Using the PurpleAir Sensor Network. <a href="https://eartharxiv.org/repository/view/9692/">[earth arXiv]</a>, 2025</li>
-    <li>Guo, F., Chen, X., Howland, S., Niu, Z., <strong>Zhang, L.</strong>, Gauderman, J., McConnell, R., Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S. (2025) Childhood Exposure to Air Pollution, Body Mass Index Trajectories, and Insulin Resistance Among Young Adults. <em>JAMA Network Open</em> <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833125">[link]</a></li>
+    <li><strong>Zhang L.</strong> ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian Spatial Factor Models with Application to Spatial Transcriptomics. <a href="https://arxiv.org/abs/2506.01098">[arXiv preprint]</a>, 2025</li>
     <li>Magnusson, M., Torgander, J., Bürkner, P., <strong>Zhang, L.</strong>, Carpenter, B., Vehtari, A. (2025) posteriordb: Testing, Benchmarking and Developing Bayesian Inference Algorithms. <em>AISTATS 2025 oral presentation (Top 2%)</em> <a href="https://proceedings.mlr.press/v258/magnusson25a.html">[link]</a></li>
+    <li>Guo, F., Chen, X., Howland, S., Niu, Z., <strong>Zhang, L.</strong>, Gauderman, J., McConnell, R., Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S. (2025) Childhood Exposure to Air Pollution, Body Mass Index Trajectories, and Insulin Resistance Among Young Adults. <em>JAMA Network Open</em> <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833125">[link]</a></li>
+    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> Resolution Revolution: A Physics-Guided Deep Learning Framework for Spatiotemporal Temperature Reconstruction. <a href="https://arxiv.org/pdf/2507.09872v1">[arXiv preprint]</a>, 2025</li>
+    <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. End-to-End Reconstruction of High-Resolution Temperature Data Using Physics-Guided Deep Learning. <em>ICML workshop 2025</em> <a href="https://openreview.net/forum?id=zMIlyzDf3p">[link]</a></li>
+    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a>, 2025</li>
     <li>Li, S., Oliva, P., <strong>Zhang, L.</strong>, Goodrich, J., McConnell, R., Conti, D., Chatzi, L. & Aung, M. (2025). Associations between per-and polyfluoroalkyl substances (PFAS) and county-level cancer incidence between 2016 and 2021 and incident cancer burden attributable to PFAS in drinking water in the United States. <em>Journal of Exposure Science & Environmental Epidemiology</em> <a href="https://www.nature.com/articles/s41370-024-00742-2">[link]</a></li>
   </ul>
 
   <h4>2024</h4>
   <ul>
-    <li><strong>Zhang, L.</strong>, Finley, A., Nothdurft, A. & Banerjee, S. (2024) Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, <em>International Journal of Applied Earth Observation and Geoinformation</em> <a href="https://www.sciencedirect.com/science/article/pii/S1569843224005806">[link]</a></li>
     <li>Pan, S., <strong>Zhang, L.</strong>, Bradley, J., Banerjee, S. Bayesian Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking, <a href="https://arxiv.org/abs/2406.04655">[arXiv preprint]</a>, 2024</li>
+    <li><strong>Zhang, L.</strong>, Finley, A., Nothdurft, A. & Banerjee, S. (2024) Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, <em>International Journal of Applied Earth Observation and Geoinformation</em> <a href="https://www.sciencedirect.com/science/article/pii/S1569843224005806">[link]</a></li>
     <li>Sparkes, S.†, Garcia, E. & <strong>Zhang, L.</strong> (2024). The functional average treatment effect. <em>Journal of Causal Inference</em> <a href="https://www.degruyter.com/document/doi/10.1515/jci-2023-0076/html">[link]</a></li>
     <li>Liu, S.† & <strong>Zhang, L.</strong> (2024) Deep Feature Gaussian Processes for Single-Scene Aerosol Optical Depth Reconstruction. <em>IEEE Geoscience and Remote Sensing Letters</em> <a href="https://ieeexplore.ieee.org/document/10526362">[link]</a></li>
   </ul>
@@ -267,40 +268,82 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 function showTab(tabName) {
   console.log('Switching to tab:', tabName); // Debug log
   
-  // Hide all tab contents
-  var tabContents = document.getElementsByClassName('tab-content');
-  for (var i = 0; i < tabContents.length; i++) {
-    tabContents[i].classList.remove('active');
-  }
-  
-  // Remove active class from all buttons
-  var tabButtons = document.getElementsByClassName('tab-button');
-  for (var i = 0; i < tabButtons.length; i++) {
-    tabButtons[i].classList.remove('active');
-  }
-  
-  // Show the selected tab content
-  var targetTab = document.getElementById(tabName);
-  if (targetTab) {
-    targetTab.classList.add('active');
-    console.log('Tab activated:', tabName);
-  } else {
-    console.error('Tab not found:', tabName);
-  }
-  
-  // Add active class to the clicked button
-  if (event && event.target) {
-    event.target.classList.add('active');
+  try {
+    // Hide all tab contents
+    var tabContents = document.getElementsByClassName('tab-content');
+    console.log('Found', tabContents.length, 'tab content elements');
+    for (var i = 0; i < tabContents.length; i++) {
+      tabContents[i].classList.remove('active');
+      console.log('Removed active from:', tabContents[i].id);
+    }
+    
+    // Remove active class from all buttons
+    var tabButtons = document.getElementsByClassName('tab-button');
+    console.log('Found', tabButtons.length, 'tab buttons');
+    for (var i = 0; i < tabButtons.length; i++) {
+      tabButtons[i].classList.remove('active');
+    }
+    
+    // Show the selected tab content
+    var targetTab = document.getElementById(tabName);
+    if (targetTab) {
+      targetTab.classList.add('active');
+      console.log('Successfully activated tab:', tabName);
+    } else {
+      console.error('Tab not found:', tabName);
+      console.log('Available tabs:', Array.from(document.querySelectorAll('.tab-content')).map(t => t.id));
+      return false;
+    }
+    
+    // Add active class to the clicked button
+    if (event && event.target) {
+      event.target.classList.add('active');
+      console.log('Activated button for:', tabName);
+    }
+    
+    return true;
+  } catch (error) {
+    console.error('Error in showTab:', error);
+    return false;
   }
 }
 
 // Initialize tabs when page loads
 document.addEventListener('DOMContentLoaded', function() {
   console.log('Page loaded, initializing tabs');
+  
+  // Check if all required elements exist
+  var requiredTabs = ['selected', 'authorship', 'topics', 'software'];
+  var missingTabs = [];
+  
+  requiredTabs.forEach(function(tabId) {
+    if (!document.getElementById(tabId)) {
+      missingTabs.push(tabId);
+    }
+  });
+  
+  if (missingTabs.length > 0) {
+    console.error('Missing tab elements:', missingTabs);
+  } else {
+    console.log('All required tabs found');
+  }
+  
   // Make sure the first tab is active by default
   var firstTab = document.querySelector('.tab-content');
   if (firstTab) {
     firstTab.classList.add('active');
+    console.log('Default tab activated:', firstTab.id);
+  }
+  
+  // Add click event listeners to all buttons as backup
+  var tabButtons = document.getElementsByClassName('tab-button');
+  for (var i = 0; i < tabButtons.length; i++) {
+    var button = tabButtons[i];
+    var tabId = button.getAttribute('onclick').match(/showTab\('([^']+)'\)/)[1];
+    button.addEventListener('click', function(e) {
+      var clickedTabId = this.getAttribute('onclick').match(/showTab\('([^']+)'\)/)[1];
+      showTab(clickedTabId);
+    });
   }
 });
 </script>
