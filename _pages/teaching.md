@@ -10,8 +10,8 @@ author_profile: true
 
 | Course ID | Name | Quarter |
 | :--------: |:-----------------:| :----------:|
-| PM 511a | **Data Analysis (a)** | Summer 2024, Summer 2025 |
-| PM 569 | **Spatial Statistics** | Fall 2023 |
+| PM 511a | **Data Analysis (a)** | 2024 Summer, 2025 Summer|
+| PM 569 | **Spatial Statistics** | 2023 Fall, 2025 Fall |
 
 
 ### Graduate Teaching Assistant at UCLA 
