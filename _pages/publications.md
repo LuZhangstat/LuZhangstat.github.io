@@ -15,10 +15,10 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 ## View Publications by:
 
 <div class="publication-tabs">
-      <button class="tab-button active" onclick="showTab('selected')">By Year</button>
-    <button class="tab-button" onclick="showTab('authorship')">By Authorship</button>
-    <button class="tab-button" onclick="showTab('topics')">Research Topics</button>
-    <button class="tab-button" onclick="showTab('software')">Software & Notes</button>
+  <button class="tab-button active" onclick="showTab('selected')">Year</button>
+  <button class="tab-button" onclick="showTab('authorship')">Authorship</button>
+  <button class="tab-button" onclick="showTab('topics')">Research Topics</button>
+  <button class="tab-button" onclick="showTab('software')">Software & Notes</button>
 </div>
 
 <div id="selected" class="tab-content active">
@@ -265,6 +265,8 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 
 <script>
 function showTab(tabName) {
+  console.log('Switching to tab:', tabName); // Debug log
+  
   // Hide all tab contents
   var tabContents = document.getElementsByClassName('tab-content');
   for (var i = 0; i < tabContents.length; i++) {
@@ -278,10 +280,28 @@ function showTab(tabName) {
   }
   
   // Show the selected tab content
-  document.getElementById(tabName).classList.add('active');
+  var targetTab = document.getElementById(tabName);
+  if (targetTab) {
+    targetTab.classList.add('active');
+    console.log('Tab activated:', tabName);
+  } else {
+    console.error('Tab not found:', tabName);
+  }
   
   // Add active class to the clicked button
-  event.target.classList.add('active');
+  if (event && event.target) {
+    event.target.classList.add('active');
+  }
 }
+
+// Initialize tabs when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('Page loaded, initializing tabs');
+  // Make sure the first tab is active by default
+  var firstTab = document.querySelector('.tab-content');
+  if (firstTab) {
+    firstTab.classList.add('active');
+  }
+});
 </script>
 
