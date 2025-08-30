@@ -21,23 +21,17 @@ My research interests include statistical modeling and analysis for geographical
 <div class="news-section">
   <div class="news-item">
     <div class="news-date">2025/08</div>
-    <div class="news-content">
-      <strong>Talk at SCORE Club</strong>
-    </div>
+    <div class="news-content">Talk at SCORE Club</div>
   </div>
 
   <div class="news-item">
     <div class="news-date">2025/08</div>
-    <div class="news-content">
-      <strong>Student Achievement:</strong> Shengjie Liu won 3rd place at IGARSS 2025 student paper competition
-    </div>
+    <div class="news-content">Student Achievement: Shengjie Liu won 3rd place at IGARSS 2025 student paper competition</div>
   </div>
 
   <div class="news-item">
     <div class="news-date">2025/06</div>
-    <div class="news-content">
-      <strong>Talk at ICSA 2025</strong>
-    </div>
+    <div class="news-content">Talk at ICSA 2025</div>
   </div>
 
   
