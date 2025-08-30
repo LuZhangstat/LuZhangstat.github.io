@@ -265,56 +265,57 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 </style>
 
 <script>
+// Test if JavaScript is running at all
+console.log('=== JAVASCRIPT LOADED ===');
+
+// Simple test function
+function testClick() {
+  alert('JavaScript is working!');
+  console.log('Test click worked!');
+}
+
 // Simple and direct tab switching function
 function showTab(tabName) {
   console.log('=== TAB SWITCH ATTEMPT ===');
   console.log('Target tab:', tabName);
   
-  // Get all tab content divs using more specific selector
-  var tabContents = document.querySelectorAll('div[id].tab-content');
-  console.log('Found', tabContents.length, 'tab content divs with IDs');
+  // Test if we can find elements at all
+  var allButtons = document.querySelectorAll('button');
+  console.log('Total buttons found:', allButtons.length);
   
-  // Get all tab buttons using more specific selector
   var tabButtons = document.querySelectorAll('button.tab-button');
-  console.log('Found', tabButtons.length, 'tab buttons');
+  console.log('Tab buttons found:', tabButtons.length);
   
-  // Log all found elements for debugging
-  console.log('Tab contents found:');
-  tabContents.forEach(function(tab, i) {
-    console.log(i + 1 + '.', 'ID:', tab.id, 'Classes:', tab.className);
-  });
+  var tabContents = document.querySelectorAll('div.tab-content');
+  console.log('Tab contents found:', tabContents.length);
   
-  console.log('Tab buttons found:');
-  tabButtons.forEach(function(btn, i) {
-    console.log(i + 1 + '.', 'Text:', btn.textContent, 'onclick:', btn.getAttribute('onclick'));
-  });
-  
-  // Hide all tab contents by removing active class
-  tabContents.forEach(function(tab) {
-    tab.classList.remove('active');
-    console.log('Removed active from:', tab.id);
-  });
-  
-  // Remove active class from all buttons
-  tabButtons.forEach(function(button) {
+  // Try to remove active class from all buttons first
+  tabButtons.forEach(function(button, i) {
+    console.log('Button', i + 1, 'before:', button.className);
     button.classList.remove('active');
-    console.log('Removed active from button:', button.textContent);
+    console.log('Button', i + 1, 'after:', button.className);
   });
   
-  // Show the target tab by adding active class
+  // Try to remove active class from all content divs
+  tabContents.forEach(function(tab, i) {
+    console.log('Tab', i + 1, 'before:', tab.className);
+    tab.classList.remove('active');
+    console.log('Tab', i + 1, 'after:', tab.className);
+  });
+  
+  // Try to show target tab
   var targetTab = document.getElementById(tabName);
   if (targetTab) {
     targetTab.classList.add('active');
-    console.log('✅ Successfully activated tab:', tabName);
+    console.log('✅ Added active to tab:', tabName);
   } else {
-    console.error('❌ Target tab not found:', tabName);
-    console.log('Available tab IDs:', Array.from(tabContents).map(t => t.id));
+    console.error('❌ Tab not found:', tabName);
   }
   
-  // Activate the clicked button
+  // Try to activate clicked button
   if (event && event.target) {
     event.target.classList.add('active');
-    console.log('✅ Activated button for:', tabName);
+    console.log('✅ Added active to button:', event.target.textContent);
   }
   
   console.log('=== TAB SWITCH COMPLETE ===');
@@ -322,53 +323,58 @@ function showTab(tabName) {
 
 // Initialize when page loads
 document.addEventListener('DOMContentLoaded', function() {
-  console.log('=== TAB SYSTEM INITIALIZATION ===');
+  console.log('=== DOM LOADED ===');
   
-  // Check if we're on the right page
-  if (!document.querySelector('.publication-tabs')) {
-    console.log('Not on publications page, skipping tab initialization');
-    return;
+  // Test if we can find the tab container
+  var tabContainer = document.querySelector('.publication-tabs');
+  if (tabContainer) {
+    console.log('✅ Found tab container');
+  } else {
+    console.log('❌ No tab container found');
   }
   
-  // List all tab content divs
-  var allTabs = document.querySelectorAll('div[id].tab-content');
-  console.log('All tab content divs found:');
-  allTabs.forEach(function(tab, index) {
-    console.log(index + 1 + '.', tab.id, '- Classes:', tab.className);
+  // Test if we can find buttons
+  var buttons = document.querySelectorAll('button.tab-button');
+  console.log('Found', buttons.length, 'tab buttons');
+  
+  // Test if we can find content divs
+  var contents = document.querySelectorAll('div.tab-content');
+  console.log('Found', contents.length, 'tab content divs');
+  
+  // Log all button classes
+  buttons.forEach(function(btn, i) {
+    console.log('Button', i + 1, ':', btn.textContent, 'Classes:', btn.className);
   });
   
-  // List all tab buttons
-  var allButtons = document.querySelectorAll('button.tab-button');
-  console.log('All tab buttons found:');
-  allButtons.forEach(function(button, index) {
-    console.log(index + 1 + '.', button.textContent, '- onclick:', button.getAttribute('onclick'));
+  // Log all content classes
+  contents.forEach(function(content, i) {
+    console.log('Content', i + 1, ':', content.id, 'Classes:', content.className);
   });
-  
-  // Make sure first tab is visible by adding active class
-  var firstTab = document.querySelector('div[id].tab-content');
-  if (firstTab) {
-    firstTab.classList.add('active');
-    console.log('Default tab activated:', firstTab.id);
-  }
-  
-  console.log('=== INITIALIZATION COMPLETE ===');
 });
 
-// Add direct event listeners as backup
+// Add simple click test to each button
 document.addEventListener('DOMContentLoaded', function() {
   var buttons = document.querySelectorAll('button.tab-button');
-  console.log('Adding event listeners to', buttons.length, 'buttons');
-  
-  buttons.forEach(function(button, index) {
+  buttons.forEach(function(button, i) {
     button.addEventListener('click', function(e) {
-      console.log('Event listener triggered for button', index + 1, ':', this.textContent);
+      console.log('Button clicked:', this.textContent);
+      console.log('Button classes before:', this.className);
+      
+      // Remove active from all buttons
+      document.querySelectorAll('button.tab-button').forEach(function(btn) {
+        btn.classList.remove('active');
+      });
+      
+      // Add active to this button
+      this.classList.add('active');
+      console.log('Button classes after:', this.className);
+      
+      // Get tab name from onclick
       var onclick = this.getAttribute('onclick');
       if (onclick) {
         var match = onclick.match(/showTab\('([^']+)'\)/);
         if (match) {
-          var tabName = match[1];
-          console.log('Calling showTab with:', tabName);
-          showTab(tabName);
+          showTab(match[1]);
         }
       }
     });
