@@ -267,65 +267,85 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 <script>
 // Simple and direct tab switching function
 function showTab(tabName) {
-  console.log('Attempting to switch to tab:', tabName);
+  console.log('=== TAB SWITCH ATTEMPT ===');
+  console.log('Target tab:', tabName);
   
-  // Get all tab content divs
-  var tabContents = document.querySelectorAll('.tab-content');
-  console.log('Found', tabContents.length, 'tab content divs');
+  // Get all tab content divs using more specific selector
+  var tabContents = document.querySelectorAll('div[id].tab-content');
+  console.log('Found', tabContents.length, 'tab content divs with IDs');
   
-  // Get all tab buttons
-  var tabButtons = document.querySelectorAll('.tab-button');
+  // Get all tab buttons using more specific selector
+  var tabButtons = document.querySelectorAll('button.tab-button');
   console.log('Found', tabButtons.length, 'tab buttons');
+  
+  // Log all found elements for debugging
+  console.log('Tab contents found:');
+  tabContents.forEach(function(tab, i) {
+    console.log(i + 1 + '.', 'ID:', tab.id, 'Classes:', tab.className);
+  });
+  
+  console.log('Tab buttons found:');
+  tabButtons.forEach(function(btn, i) {
+    console.log(i + 1 + '.', 'Text:', btn.textContent, 'onclick:', btn.getAttribute('onclick'));
+  });
   
   // Hide all tab contents by removing active class
   tabContents.forEach(function(tab) {
     tab.classList.remove('active');
-    console.log('Removed active from tab:', tab.id);
+    console.log('Removed active from:', tab.id);
   });
   
   // Remove active class from all buttons
   tabButtons.forEach(function(button) {
     button.classList.remove('active');
+    console.log('Removed active from button:', button.textContent);
   });
   
   // Show the target tab by adding active class
   var targetTab = document.getElementById(tabName);
   if (targetTab) {
     targetTab.classList.add('active');
-    console.log('Successfully activated tab:', tabName);
+    console.log('✅ Successfully activated tab:', tabName);
   } else {
-    console.error('Target tab not found:', tabName);
-    console.log('Available tabs:', Array.from(tabContents).map(t => t.id));
+    console.error('❌ Target tab not found:', tabName);
+    console.log('Available tab IDs:', Array.from(tabContents).map(t => t.id));
   }
   
   // Activate the clicked button
-  var clickedButton = event.target;
-  if (clickedButton) {
-    clickedButton.classList.add('active');
-    console.log('Activated button for:', tabName);
+  if (event && event.target) {
+    event.target.classList.add('active');
+    console.log('✅ Activated button for:', tabName);
   }
+  
+  console.log('=== TAB SWITCH COMPLETE ===');
 }
 
 // Initialize when page loads
 document.addEventListener('DOMContentLoaded', function() {
   console.log('=== TAB SYSTEM INITIALIZATION ===');
   
+  // Check if we're on the right page
+  if (!document.querySelector('.publication-tabs')) {
+    console.log('Not on publications page, skipping tab initialization');
+    return;
+  }
+  
   // List all tab content divs
-  var allTabs = document.querySelectorAll('.tab-content');
+  var allTabs = document.querySelectorAll('div[id].tab-content');
   console.log('All tab content divs found:');
   allTabs.forEach(function(tab, index) {
     console.log(index + 1 + '.', tab.id, '- Classes:', tab.className);
   });
   
   // List all tab buttons
-  var allButtons = document.querySelectorAll('.tab-button');
+  var allButtons = document.querySelectorAll('button.tab-button');
   console.log('All tab buttons found:');
   allButtons.forEach(function(button, index) {
     console.log(index + 1 + '.', button.textContent, '- onclick:', button.getAttribute('onclick'));
   });
   
   // Make sure first tab is visible by adding active class
-  var firstTab = document.querySelector('.tab-content');
+  var firstTab = document.querySelector('div[id].tab-content');
   if (firstTab) {
     firstTab.classList.add('active');
     console.log('Default tab activated:', firstTab.id);
@@ -336,12 +356,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Add direct event listeners as backup
 document.addEventListener('DOMContentLoaded', function() {
-  var buttons = document.querySelectorAll('.tab-button');
-  buttons.forEach(function(button) {
+  var buttons = document.querySelectorAll('button.tab-button');
+  console.log('Adding event listeners to', buttons.length, 'buttons');
+  
+  buttons.forEach(function(button, index) {
     button.addEventListener('click', function(e) {
-      var tabName = this.getAttribute('onclick').match(/showTab\('([^']+)'\)/)[1];
-      console.log('Direct event listener triggered for:', tabName);
-      showTab(tabName);
+      console.log('Event listener triggered for button', index + 1, ':', this.textContent);
+      var onclick = this.getAttribute('onclick');
+      if (onclick) {
+        var match = onclick.match(/showTab\('([^']+)'\)/);
+        if (match) {
+          var tabName = match[1];
+          console.log('Calling showTab with:', tabName);
+          showTab(tabName);
+        }
+      }
     });
   });
 });
