@@ -277,11 +277,10 @@ function showTab(tabName) {
   var tabButtons = document.querySelectorAll('.tab-button');
   console.log('Found', tabButtons.length, 'tab buttons');
   
-  // Hide all tab contents
+  // Hide all tab contents by removing active class
   tabContents.forEach(function(tab) {
-    tab.style.display = 'none';
     tab.classList.remove('active');
-    console.log('Hidden tab:', tab.id);
+    console.log('Removed active from tab:', tab.id);
   });
   
   // Remove active class from all buttons
@@ -289,12 +288,11 @@ function showTab(tabName) {
     button.classList.remove('active');
   });
   
-  // Show the target tab
+  // Show the target tab by adding active class
   var targetTab = document.getElementById(tabName);
   if (targetTab) {
-    targetTab.style.display = 'block';
     targetTab.classList.add('active');
-    console.log('Successfully showed tab:', tabName);
+    console.log('Successfully activated tab:', tabName);
   } else {
     console.error('Target tab not found:', tabName);
     console.log('Available tabs:', Array.from(tabContents).map(t => t.id));
@@ -316,7 +314,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var allTabs = document.querySelectorAll('.tab-content');
   console.log('All tab content divs found:');
   allTabs.forEach(function(tab, index) {
-    console.log(index + 1 + '.', tab.id, '- Display:', tab.style.display, '- Classes:', tab.className);
+    console.log(index + 1 + '.', tab.id, '- Classes:', tab.className);
   });
   
   // List all tab buttons
@@ -326,10 +324,9 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log(index + 1 + '.', button.textContent, '- onclick:', button.getAttribute('onclick'));
   });
   
-  // Make sure first tab is visible
+  // Make sure first tab is visible by adding active class
   var firstTab = document.querySelector('.tab-content');
   if (firstTab) {
-    firstTab.style.display = 'block';
     firstTab.classList.add('active');
     console.log('Default tab activated:', firstTab.id);
   }
