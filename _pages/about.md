@@ -45,17 +45,19 @@ My research interests include statistical modeling and analysis for geographical
 
 <style>
 .news-section {
-  margin: 30px 0;
-  padding: 20px;
+  margin: 20px 0;
+  padding: 15px;
   background-color: #f8f9fa;
-  border-radius: 8px;
-  border-left: 4px solid #0366d6;
+  border-radius: 6px;
+  border-left: 3px solid #0366d6;
 }
 
 .news-item {
-  margin-bottom: 20px;
-  padding-bottom: 15px;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
   border-bottom: 1px solid #e1e4e8;
+  position: relative;
+  padding-left: 15px;
 }
 
 .news-item:last-child {
@@ -64,17 +66,26 @@ My research interests include statistical modeling and analysis for geographical
   padding-bottom: 0;
 }
 
+.news-item:before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #24292e;
+  font-weight: bold;
+}
+
 .news-date {
-  font-size: 14px;
+  font-size: 12px;
   color: #586069;
   font-weight: 500;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 .news-content {
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 14px;
+  line-height: 1.4;
   color: #24292e;
+  margin: 0;
 }
 
 .news-content strong {
