@@ -265,86 +265,88 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 </style>
 
 <script>
+// Simple and direct tab switching function
 function showTab(tabName) {
-  console.log('Switching to tab:', tabName); // Debug log
+  console.log('Attempting to switch to tab:', tabName);
   
-  try {
-    // Hide all tab contents
-    var tabContents = document.getElementsByClassName('tab-content');
-    console.log('Found', tabContents.length, 'tab content elements');
-    for (var i = 0; i < tabContents.length; i++) {
-      tabContents[i].classList.remove('active');
-      console.log('Removed active from:', tabContents[i].id);
-    }
-    
-    // Remove active class from all buttons
-    var tabButtons = document.getElementsByClassName('tab-button');
-    console.log('Found', tabButtons.length, 'tab buttons');
-    for (var i = 0; i < tabButtons.length; i++) {
-      tabButtons[i].classList.remove('active');
-    }
-    
-    // Show the selected tab content
-    var targetTab = document.getElementById(tabName);
-    if (targetTab) {
-      targetTab.classList.add('active');
-      console.log('Successfully activated tab:', tabName);
-    } else {
-      console.error('Tab not found:', tabName);
-      console.log('Available tabs:', Array.from(document.querySelectorAll('.tab-content')).map(t => t.id));
-      return false;
-    }
-    
-    // Add active class to the clicked button
-    if (event && event.target) {
-      event.target.classList.add('active');
-      console.log('Activated button for:', tabName);
-    }
-    
-    return true;
-  } catch (error) {
-    console.error('Error in showTab:', error);
-    return false;
+  // Get all tab content divs
+  var tabContents = document.querySelectorAll('.tab-content');
+  console.log('Found', tabContents.length, 'tab content divs');
+  
+  // Get all tab buttons
+  var tabButtons = document.querySelectorAll('.tab-button');
+  console.log('Found', tabButtons.length, 'tab buttons');
+  
+  // Hide all tab contents
+  tabContents.forEach(function(tab) {
+    tab.style.display = 'none';
+    tab.classList.remove('active');
+    console.log('Hidden tab:', tab.id);
+  });
+  
+  // Remove active class from all buttons
+  tabButtons.forEach(function(button) {
+    button.classList.remove('active');
+  });
+  
+  // Show the target tab
+  var targetTab = document.getElementById(tabName);
+  if (targetTab) {
+    targetTab.style.display = 'block';
+    targetTab.classList.add('active');
+    console.log('Successfully showed tab:', tabName);
+  } else {
+    console.error('Target tab not found:', tabName);
+    console.log('Available tabs:', Array.from(tabContents).map(t => t.id));
+  }
+  
+  // Activate the clicked button
+  var clickedButton = event.target;
+  if (clickedButton) {
+    clickedButton.classList.add('active');
+    console.log('Activated button for:', tabName);
   }
 }
 
-// Initialize tabs when page loads
+// Initialize when page loads
 document.addEventListener('DOMContentLoaded', function() {
-  console.log('Page loaded, initializing tabs');
+  console.log('=== TAB SYSTEM INITIALIZATION ===');
   
-  // Check if all required elements exist
-  var requiredTabs = ['selected', 'authorship', 'topics', 'software'];
-  var missingTabs = [];
-  
-  requiredTabs.forEach(function(tabId) {
-    if (!document.getElementById(tabId)) {
-      missingTabs.push(tabId);
-    }
+  // List all tab content divs
+  var allTabs = document.querySelectorAll('.tab-content');
+  console.log('All tab content divs found:');
+  allTabs.forEach(function(tab, index) {
+    console.log(index + 1 + '.', tab.id, '- Display:', tab.style.display, '- Classes:', tab.className);
   });
   
-  if (missingTabs.length > 0) {
-    console.error('Missing tab elements:', missingTabs);
-  } else {
-    console.log('All required tabs found');
-  }
+  // List all tab buttons
+  var allButtons = document.querySelectorAll('.tab-button');
+  console.log('All tab buttons found:');
+  allButtons.forEach(function(button, index) {
+    console.log(index + 1 + '.', button.textContent, '- onclick:', button.getAttribute('onclick'));
+  });
   
-  // Make sure the first tab is active by default
+  // Make sure first tab is visible
   var firstTab = document.querySelector('.tab-content');
   if (firstTab) {
+    firstTab.style.display = 'block';
     firstTab.classList.add('active');
     console.log('Default tab activated:', firstTab.id);
   }
   
-  // Add click event listeners to all buttons as backup
-  var tabButtons = document.getElementsByClassName('tab-button');
-  for (var i = 0; i < tabButtons.length; i++) {
-    var button = tabButtons[i];
-    var tabId = button.getAttribute('onclick').match(/showTab\('([^']+)'\)/)[1];
+  console.log('=== INITIALIZATION COMPLETE ===');
+});
+
+// Add direct event listeners as backup
+document.addEventListener('DOMContentLoaded', function() {
+  var buttons = document.querySelectorAll('.tab-button');
+  buttons.forEach(function(button) {
     button.addEventListener('click', function(e) {
-      var clickedTabId = this.getAttribute('onclick').match(/showTab\('([^']+)'\)/)[1];
-      showTab(clickedTabId);
+      var tabName = this.getAttribute('onclick').match(/showTab\('([^']+)'\)/)[1];
+      console.log('Direct event listener triggered for:', tabName);
+      showTab(tabName);
     });
-  }
+  });
 });
 </script>
 
