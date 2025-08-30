@@ -19,22 +19,9 @@ My research interests include statistical modeling and analysis for geographical
 ## News
 
 <div class="news-section">
-  <div class="news-item">
-    <div class="news-date">2025/08</div>
-    <div class="news-content">Talk at SCORE Club</div>
-  </div>
-
-  <div class="news-item">
-    <div class="news-date">2025/08</div>
-    <div class="news-content">Student Achievement: Shengjie Liu won 3rd place at IGARSS 2025 student paper competition</div>
-  </div>
-
-  <div class="news-item">
-    <div class="news-date">2025/06</div>
-    <div class="news-content">Talk at ICSA 2025</div>
-  </div>
-
-  
+  <div class="news-item">2025/08: Talk at SCORE Club</div>
+  <div class="news-item">2025/08: Student Achievement: Shengjie Liu won 3rd place at IGARSS 2025 student paper competition</div>
+  <div class="news-item">2025/06: Talk at ICSA 2025</div>
 </div>
 
 <style>
@@ -47,17 +34,16 @@ My research interests include statistical modeling and analysis for geographical
 }
 
 .news-item {
-  margin-bottom: 8px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #e1e4e8;
-  position: relative;
+  margin-bottom: 6px;
   padding-left: 15px;
+  position: relative;
+  font-size: 14px;
+  line-height: 1.4;
+  color: #24292e;
 }
 
 .news-item:last-child {
-  border-bottom: none;
   margin-bottom: 0;
-  padding-bottom: 0;
 }
 
 .news-item:before {
@@ -66,24 +52,6 @@ My research interests include statistical modeling and analysis for geographical
   left: 0;
   color: #24292e;
   font-weight: bold;
-}
-
-.news-date {
-  font-size: 12px;
-  color: #586069;
-  font-weight: 500;
-  margin-bottom: 2px;
-}
-
-.news-content {
-  font-size: 14px;
-  line-height: 1.4;
-  color: #24292e;
-  margin: 0;
-}
-
-.news-content strong {
-  color: #0366d6;
 }
 </style>
 
