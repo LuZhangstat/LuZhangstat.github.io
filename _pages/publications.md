@@ -234,6 +234,8 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 .tab-content h3 {
   margin-top: 0;
   color: #24292e;
+  font-size: 24px;
+  font-weight: 600;
 }
 
 .tab-content h4 {
@@ -242,6 +244,16 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   margin-bottom: 15px;
   border-bottom: 1px solid #e1e4e8;
   padding-bottom: 5px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.tab-content h5 {
+  color: #586069;
+  margin-top: 25px;
+  margin-bottom: 12px;
+  font-size: 18px;
+  font-weight: 500;
 }
 
 .tab-content ul {
