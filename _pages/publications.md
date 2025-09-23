@@ -26,6 +26,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h4>2025</h4>
   <ul>
+    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025+) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> (to appear) <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
     <li>Lu, Y., Zhang, X., Neyestani, S., Li, X., Jing, L., <strong>Zhang, L.</strong>, Habre, R., Zhang, J. Assessing Indoor Versus Outdoor PM2.5 Concentrations During the 2025 Los Angeles Fires Using the PurpleAir Sensor Network. <a href="https://eartharxiv.org/repository/view/9692/">[earth arXiv]</a>, 2025</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. A novel and practical approach to generate all-weather 30-meter land surface temperature data. <em>IGARSS 2025</em> (3rd place out of 340+ submissions in the student paper competition)</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. End-to-End Reconstruction of High-Resolution Temperature Data Using Physics-Guided Deep Learning. <em>ICML workshop 2025</em> <a href="https://openreview.net/forum?id=zMIlyzDf3p">[link]</a></li>
@@ -49,7 +50,6 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   <h4>2023</h4>
   <ul>
     <li><strong>Zhang, L.</strong>*, Tang, W.* & Banerjee, S. (2023) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. <em>Statistica Sinica</em> <a href="http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0428_na.pdf">[link]</a></li>
-    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. Bayesian Geostatistics Using Predictive Stacking. <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a>, 2023</li>
     <li>Sparkes, S.† & <strong>Zhang, L.</strong> Properties and Deviations of Random Sums of Densely Dependent Random Variables, <a href="https://arxiv.org/abs/2310.11554">[arXiv preprint]</a>, 2023</li>
   </ul>
 
@@ -87,11 +87,11 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h5>Scalable Spatial/Spatiotemporal Data Modeling</h5>
   <ul>
+    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025+) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> (to appear) <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
     <li><strong>Zhang L.</strong> ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian Spatial Factor Models with Application to Spatial Transcriptomics. <a href="https://arxiv.org/abs/2506.01098">[arXiv preprint]</a>, 2025</li>
     <li><strong>Zhang, L.</strong>, Finley, A., Nothdurft, A. & Banerjee, S. (2024) Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, <em>International Journal of Applied Earth Observation and Geoinformation</em> <a href="https://www.sciencedirect.com/science/article/pii/S1569843224005806">[link]</a></li>
     <li>Pan, S., <strong>Zhang, L.</strong>, Bradley, J., Banerjee, S. Bayesian Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking, <a href="https://arxiv.org/abs/2406.04655">[arXiv preprint]</a>, 2024</li>
     <li><strong>Zhang, L.</strong>*, Tang, W.* & Banerjee, S. (2023) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. <em>Statistica Sinica</em> <a href="http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0428_na.pdf">[link]</a></li>
-    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. Bayesian Geostatistics Using Predictive Stacking. <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a>, 2023</li>
     <li>Tang, W.*, <strong>Zhang, L.</strong>*, & Banerjee, S. (2021) On identifiability and consistency of the nugget in Gaussian spatial process models. <em>Journal of the Royal Statistical Society Series B</em> <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12472">[link]</a></li>
     <li><strong>Zhang, L.</strong> & Banerjee, S. (2021). Spatial factor modeling: A Bayesian matrix‐normal approach for misaligned data. <em>Biometrics</em> <a href="http://dx.doi.org/10.1111/biom.13452">[link]</a></li>
     <li><strong>Zhang, L.</strong>, Banerjee, S. & Finley, A. O. (2021). High‐dimensional multivariate geostatistics: A Bayesian matrix‐normal approach. <em>Environmetrics</em> <a href="https://doi.org/10.1002%2Fenv.2675">[link]</a></li>
@@ -156,10 +156,10 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h4>First or Joint First Author</h4>
   <ul>
+   <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025+) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> (to appear) <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
     <li><strong>Zhang L.</strong> ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian Spatial Factor Models with Application to Spatial Transcriptomics. <a href="https://arxiv.org/abs/2506.01098">[arXiv preprint]</a>, 2025</li>
     <li><strong>Zhang, L.</strong>, Finley, A., Nothdurft, A. & Banerjee, S. (2024) Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, <em>International Journal of Applied Earth Observation and Geoinformation</em> <a href="https://www.sciencedirect.com/science/article/pii/S1569843224005806">[link]</a></li>
     <li><strong>Zhang, L.</strong>*, Tang, W.* & Banerjee, S. (2023) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. <em>Statistica Sinica</em> <a href="http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0428_na.pdf">[link]</a></li>
-    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. Bayesian Geostatistics Using Predictive Stacking. <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a>, 2023</li>
     <li><strong>Zhang, L.</strong>, Carpenter, B., Gelman, A. & Vehtari, A. (2022) Pathfinder: Parallel quasi-Newton variational inference <em>Journal of Machine Learning Research</em> <a href="https://www.jmlr.org/papers/volume23/21-0889/21-0889.pdf">[link]</a></li>
     <li><strong>Zhang, L.</strong> (2022) Applications of Conjugate Gradient in Bayesian computation. <em>Wiley StatsRef-Statistics Reference Online</em> <a href="https://doi.org/10.1002/9781118445112.stat08411">[link]</a></li>
     <li>Tang, W.*, <strong>Zhang, L.</strong>*, & Banerjee, S. (2021) On identifiability and consistency of the nugget in Gaussian spatial process models. <em>Journal of the Royal Statistical Society Series B</em> <a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12472">[link]</a></li>

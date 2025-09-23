@@ -19,6 +19,7 @@ My research interests include statistical modeling and analysis for geographical
 ## News
 
 <div class="news-section">
+  <div class="news-item">2025/09: Paper "Bayesian Geostatistics Using Predictive Stacking" accepted by Journal of the American Statistical Association (Theory and Methods)</div>
   <div class="news-item">2025/08: Talk at SCORE Club</div>
   <div class="news-item">2025/08: Student Achievement: Shengjie Liu won 3rd place at IGARSS 2025 student paper competition</div>
   <div class="news-item">2025/06: Talk at ICSA 2025</div>
