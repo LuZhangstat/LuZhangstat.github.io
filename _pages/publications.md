@@ -26,7 +26,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h4>2025</h4>
   <ul>
-    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025+) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> (to appear) <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
+    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods) </em> <a href="https://doi.org/10.1080/01621459.2025.2566449">[DOI]</a> <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
     <li>[preprint] Lu, Y., Zhang, X., Neyestani, S., Li, X., Jing, L., <strong>Zhang, L.</strong>, Habre, R., Zhang, J. Assessing Indoor Versus Outdoor PM2.5 Concentrations During the 2025 Los Angeles Fires Using the PurpleAir Sensor Network. <a href="https://eartharxiv.org/repository/view/9692/">[earth arXiv]</a>, 2025</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. A novel and practical approach to generate all-weather 30-meter land surface temperature data. <em>IGARSS 2025</em> (3rd place out of 340+ submissions in the student paper competition)</li>
     <li>[preprint] <strong>Zhang L.</strong> ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian Spatial Factor Models with Application to Spatial Transcriptomics. <a href="https://arxiv.org/abs/2506.01098">[arXiv preprint]</a>, 2025</li>
@@ -86,7 +86,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h5>Scalable Spatial/Spatiotemporal Data Modeling</h5>
   <ul>
-    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025+) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> (to appear) <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
+    <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> <a href="https://doi.org/10.1080/01621459.2025.2566449">[DOI]</a> <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
     <li>[preprint] <strong>Zhang L.</strong> ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian Spatial Factor Models with Application to Spatial Transcriptomics. <a href="https://arxiv.org/abs/2506.01098">[arXiv preprint]</a>, 2025</li>
     <li><strong>Zhang, L.</strong>, Finley, A., Nothdurft, A. & Banerjee, S. (2024) Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, <em>International Journal of Applied Earth Observation and Geoinformation</em> <a href="https://www.sciencedirect.com/science/article/pii/S1569843224005806">[link]</a></li>
     <li>[preprint] Pan, S., <strong>Zhang, L.</strong>, Bradley, J., Banerjee, S. Bayesian Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking, <a href="https://arxiv.org/abs/2406.04655">[arXiv preprint]</a>, 2024</li>
@@ -155,7 +155,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h4>First or Joint First Author</h4>
   <ul>
-   <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025+) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> (to appear) <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
+   <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2025) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> <a href="https://doi.org/10.1080/01621459.2025.2566449">[DOI]</a> <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
     <li>[preprint] <strong>Zhang L.</strong> ProjMC<sup>2</sup>: Scalable and Stable Posterior Inference for Bayesian Spatial Factor Models with Application to Spatial Transcriptomics. <a href="https://arxiv.org/abs/2506.01098">[arXiv preprint]</a>, 2025</li>
     <li><strong>Zhang, L.</strong>, Finley, A., Nothdurft, A. & Banerjee, S. (2024) Bayesian Modeling of Incompatible Spatial Data: A Case Study Involving Post-Adrian Storm Forest Damage Assessment, <em>International Journal of Applied Earth Observation and Geoinformation</em> <a href="https://www.sciencedirect.com/science/article/pii/S1569843224005806">[link]</a></li>
     <li><strong>Zhang, L.</strong>*, Tang, W.* & Banerjee, S. (2023) Fixed-Domain Asymptotics Under Vecchia's Approximation of Spatial Process Likelihoods. <em>Statistica Sinica</em> <a href="http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0428_na.pdf">[link]</a></li>
