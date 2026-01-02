@@ -21,7 +21,7 @@ My research interests include statistical modeling and analysis for geographical
 <div class="news-section">
 IEEE Transactions on Geoscience and Remote Sensing
   <div class="news-item">2025/12: Paper "Bayesian Inference for Spatial-Temporal Non-Gaussian Data Using Predictive Stacking" accepted by Bayesian Analysis</div>
-  <div class="news-item">2025/12: Paper "Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification" accepted by IEEE Transactions on Geoscience and Remote Sensing</div>
+  <div class="news-item">2025/12: Paper "Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification" accepted by IEEE Transactions on Geoscience and Remote Sensing. Congratulations to Shengjie Liu on this achievement!</div>
   <div class="news-item">2025/12: Talk at CFE-CMStatistics 2025</div>
   <div class="news-item">2025/10: Talk at EnviBayes Workshop on Complex Environmental Data 2025</div>
   <div class="news-item">2025/10: Talk at UCLA Biostatistics Seminar</div>
