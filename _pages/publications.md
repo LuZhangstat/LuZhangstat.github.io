@@ -26,7 +26,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h4>2026</h4>
   <ul>
-    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> (2026+) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification  <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS).</em> (In Press)  <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
+    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> (2026+) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS) </em> (In Press)  <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
     <li>Pan, S., <strong>Zhang, L.</strong>, Bradley, J., Banerjee, S. (2026+) Bayesian Inference for Spatial-temporal Non-Gaussian Data Using Predictive Stacking. <em> Bayesian Analysis </em> (In Press) <a href="https://arxiv.org/abs/2406.04655">[arXiv preprint]</a></li>
   </ul>
 
@@ -127,7 +127,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 
   <h5>Remote Sensing</h5>
   <ul>
-    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> (2026+) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification  <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS).</em> (In Press)  <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
+    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> (2026+) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> (In Press)  <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. A novel and practical approach to generate all-weather 30-meter land surface temperature data. <em>IGARSS 2025</em> (3rd place out of 340+ submissions in the student paper competition)</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. End-to-End Reconstruction of High-Resolution Temperature Data Using Physics-Guided Deep Learning. <em>ICML workshop 2025</em> <a href="https://openreview.net/forum?id=zMIlyzDf3p">[link]</a></li>
     <li>[preprint] Liu, S.†, Wang, S., <strong>Zhang L.</strong> Resolution Revolution: A Physics-Guided Deep Learning Framework for Spatiotemporal Temperature Reconstruction. <a href="https://arxiv.org/pdf/2507.09872v1">[arXiv preprint]</a>, 2025</li>
@@ -174,7 +174,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 
   <h4>Student/Mentee First Author</h4>
   <ul>
-    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> (2026+) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification  <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS).</em> (In Press)  <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
+    <li>Liu, S.†, Wang, S., <strong>Zhang L.</strong> (2026+) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> (In Press)  <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. A novel and practical approach to generate all-weather 30-meter land surface temperature data. <em>IGARSS 2025</em> (3rd place out of 340+ submissions in the student paper competition)</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. End-to-End Reconstruction of High-Resolution Temperature Data Using Physics-Guided Deep Learning. <em>ICML workshop 2025</em> <a href="https://openreview.net/forum?id=zMIlyzDf3p">[link]</a></li>
     <li>[preprint] Liu, S.†, Wang, S., <strong>Zhang L.</strong> Resolution Revolution: A Physics-Guided Deep Learning Framework for Spatiotemporal Temperature Reconstruction. <a href="https://arxiv.org/pdf/2507.09872v1">[arXiv preprint]</a>, 2025</li>
