@@ -8,7 +8,7 @@ author_profile: true
 
 ## Research Interests
 
-My research interests span the topics of statistical modeling and analysis for geographically referenced data, Bayesian statistics (theory and methods), statistical computing and related software development.
+My research interests span the topics of statistical modeling and analysis for geographically referenced data, Bayesian statistics (theory and methods), statistical computing and related software development. I am actively engaged in interdisciplinary collaborations in environmental health and spatial genomics. My recent research also explores the integration of foundation models and generative AI with principled statistical methods for environmental health applications.
 
 In case this publication list is not up-to-date, my [Google Scholar page](https://scholar.google.com/citations?user=qjMckh0AAAAJ&hl=en&authuser=1) likely contains more recent papers.
 

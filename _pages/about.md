@@ -12,7 +12,7 @@ I am an Assistant Professor in the [Division of Biostatistics](https://pphs.usc.
 
 Prior to joining USC, I worked as a postdoctoral researcher with [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) in the [Department of Statistics](http://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/), and with [Bob Carpenter](https://bob-carpenter.github.io/) from [Flatiron Institute](https://www.simonsfoundation.org/flatiron/). In 2020, I received my doctoral degree in Biostatistics from the [Department of Biostatistics](http://www.biostat.ucla.edu) at [University of California, Los Angeles](http://www.ucla.edu) (UCLA), under the supervision of [Sudipto Banerjee](http://sudipto.bol.ucla.edu/). I graduated from the [School of Mathematical Science](http://math.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/) with a bachelor’s degree in mathematics and applied mathematics in 2014.
 
-My research interests include statistical modeling and analysis for geographically referenced data, Bayesian statistics (theory and methods), statistical computing, and related software development.
+My research interests include statistical modeling and analysis of spatial and spatio-temporal data, Bayesian statistics (theory and methods), statistical computing, and related software development. I am actively engaged in interdisciplinary collaborations in environmental health and spatial genomics. My recent research also explores the integration of foundation models and generative AI with principled statistical methods for environmental health applications.
 
 [Here is my CV.](files/CV.pdf)
 
