@@ -19,6 +19,9 @@ My research interests include statistical modeling and analysis of spatial and s
 ## News
 
 <div class="news-section">
+   <div class="news-item">2026/05: Talk at STATGEN 2026</div>
+   <div class="news-item">2026/04: Talk at  The NIH Health and Extreme Weather program symposium,</div>
+  <div class="news-item">2026/03: <a href="https://skrisliu.com">Shengjie</a> defended his dissertation, congrats Dr. Liu! </div>
   <div class="news-item">2026/03: Talk at AIMS@USC Spatial Summit</div>
   <div class="news-item">2026/03: Talk at USC DSO Statistics Seminar</div>
   <div class="news-item">2025/12: Paper "Bayesian Inference for Spatial-Temporal Non-Gaussian Data Using Predictive Stacking" accepted by Bayesian Analysis</div>
