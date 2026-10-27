@@ -22,7 +22,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 </div>
 
 <div id="selected" class="tab-content active">
-  <h3>Publications, Preprints, and Selected Submitted Manuscripts by Year</h3>
+  <h3>Publications and Selected Manuscripts by Year</h3>
   
   <h4>2026</h4>
   <ul>
@@ -169,7 +169,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 </div>
 
 <div id="authorship" class="tab-content">
-  <h3>Publications, Preprints, and Selected Submitted Manuscripts by Authorship</h3>
+  <h3>Publications and Selected Manuscripts by Authorship</h3>
   
   <h4>First or Joint First Author</h4>
   <ul>
