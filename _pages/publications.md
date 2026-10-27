@@ -22,12 +22,15 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 </div>
 
 <div id="selected" class="tab-content active">
-  <h3>Publications and Preprints by Year</h3>
+  <h3>Publications, Preprints, and Selected Submitted Manuscripts by Year</h3>
   
   <h4>2026</h4>
   <ul>
     <li>Kowal, T., Narongkiatikhun, P., Choi, Y. J., D'Antonio, M., Leidholt, S., Weissenkampen, D., Pinzon Cortes, J. A., Street, K., <strong>Zhang, L.</strong>, Miller, K., Conti, D., Nelson, J., Pyle, L., Bjornstad, P. & Goodrich, J. (2026) Integrating Multiomic and Spatial Imaging Data from Kidney Tissue to Elucidate Mechanisms, Therapeutic Targets, and Clinical Trajectories in Diabetic Kidney Disease: A Narrative Review. Accepted by <em>Clinical Chemistry</em>.</li>
+    <li>[submitted] Wang, Y.†, Zhu, L., <strong>Zhang, L.</strong> & Sanders, K. T. Multimodal large language models for distributed solar mapping: A case study of rooftop solar panel detection. 2026</li>
     <li><strong>Zhang, L.</strong>, Tang, W. & Banerjee, S. (2026) Bayesian Geostatistics Using Predictive Stacking. <em>Journal of the American Statistical Association (Theory and Methods)</em> 121(554), 1549–1561 doi:10.1080/01621459.2025.2566449 <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2566449">[link]</a> <a href="https://arxiv.org/abs/2304.12414">[arXiv preprint]</a></li>
+    <li>[submitted] Ramos Aguilera, D., Wang, Y.†, <strong>Zhang, L.</strong>, Zhang, J. & Sanders, K. T. Assessing disparities in air conditioning operation across Southern California. 2026</li>
+    <li>[submitted] Guo, F., <strong>Zhang, L.</strong>, Chen, X., Whitfield, L., Yan, M., Li, Y., McConnell, R., Gauderman, J., Breton, C., Hodis, H. N. & Farzan, S. Life course BMI and subclinical atherosclerosis in young adulthood: identifying a sensitive window using Bayesian relevant life-course exposure models. 2026</li>
     <li>Liu, S.†, <strong>Zhang, L.</strong>, Wang, S. (2026) Comparing Temperature Data Sets for Small-Area Assessment of Climate and Health: A Case Study of Diarrhea in New York City. <em>GeoHealth</em> 10(4), e2025GH001694 doi:10.1029/2025GH001694 <a href="https://doi.org/10.1029/2025GH001694">[link]</a></li>
     <li>Pan, S., <strong>Zhang, L.</strong>, Bradley, J., Banerjee, S. (2026) Bayesian Inference for Spatial-Temporal Non-Gaussian Data Using Predictive Stacking. <em>Bayesian Analysis</em> (Advance publication) doi:10.1214/25-BA1582 <a href="https://doi.org/10.1214/25-BA1582">[link]</a> <a href="https://arxiv.org/abs/2406.04655">[arXiv preprint]</a></li>
   </ul>
@@ -120,6 +123,8 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   
   <h5>Environmental Health</h5>
   <ul>
+    <li>[submitted] Ramos Aguilera, D., Wang, Y.†, <strong>Zhang, L.</strong>, Zhang, J. & Sanders, K. T. Assessing disparities in air conditioning operation across Southern California. 2026</li>
+    <li>[submitted] Guo, F., <strong>Zhang, L.</strong>, Chen, X., Whitfield, L., Yan, M., Li, Y., McConnell, R., Gauderman, J., Breton, C., Hodis, H. N. & Farzan, S. Life course BMI and subclinical atherosclerosis in young adulthood: identifying a sensitive window using Bayesian relevant life-course exposure models. 2026</li>
     <li>Liu, S.†, <strong>Zhang, L.</strong>, Wang, S. (2026) Comparing Temperature Data Sets for Small-Area Assessment of Climate and Health: A Case Study of Diarrhea in New York City. <em>GeoHealth</em> 10(4), e2025GH001694 doi:10.1029/2025GH001694 <a href="https://doi.org/10.1029/2025GH001694">[link]</a></li>
     <li>Lu, Y., Zhang, X., Neyestani, S., Li, X., Jing, L., <strong>Zhang, L.</strong>, Habre, R., Zhang, J. (2025) Assessing Indoor Versus Outdoor PM2.5 Concentrations During the 2025 Los Angeles Fires Using the PurpleAir Sensor Network.  <em>ACS ES&T Air </em> doi: 10.1021/acsestair.5c00302 <a href="https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00302 ">[link]</a> </li>
     <li>Guo, F., Chen, X., Howland, S., Niu, Z., <strong>Zhang, L.</strong>, Gauderman, J., McConnell, R., Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S. (2025) Childhood Exposure to Air Pollution, Body Mass Index Trajectories, and Insulin Resistance Among Young Adults. <em>JAMA Network Open</em> <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833125">[link]</a></li>
@@ -135,6 +140,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 
   <h5>Remote Sensing</h5>
   <ul>
+    <li>[submitted] Wang, Y.†, Zhu, L., <strong>Zhang, L.</strong> & Sanders, K. T. Multimodal large language models for distributed solar mapping: A case study of rooftop solar panel detection. 2026</li>
     <li>Liu, S.†, Wang, S., <strong>Zhang, L.</strong> (2025) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> 63, 5011018 doi:10.1109/TGRS.2025.3643985 <a href="https://doi.org/10.1109/TGRS.2025.3643985">[link]</a> <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. A novel and practical approach to generate all-weather 30-meter land surface temperature data. <em>IGARSS 2025</em> (3rd place out of 340+ submissions in the student paper competition)</li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. End-to-End Reconstruction of High-Resolution Temperature Data Using Physics-Guided Deep Learning. <em>ICML workshop 2025</em> <a href="https://openreview.net/forum?id=zMIlyzDf3p">[link]</a></li>
@@ -163,7 +169,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 </div>
 
 <div id="authorship" class="tab-content">
-  <h3>Publications and Preprints by Authorship</h3>
+  <h3>Publications, Preprints, and Selected Submitted Manuscripts by Authorship</h3>
   
   <h4>First or Joint First Author</h4>
   <ul>
@@ -182,6 +188,7 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
 
   <h4>Student/Mentee First Author</h4>
   <ul>
+    <li>[submitted] Wang, Y.†, Zhu, L., <strong>Zhang, L.</strong> & Sanders, K. T. Multimodal large language models for distributed solar mapping: A case study of rooftop solar panel detection. 2026</li>
     <li>Liu, S.†, <strong>Zhang, L.</strong>, Wang, S. (2026) Comparing Temperature Data Sets for Small-Area Assessment of Climate and Health: A Case Study of Diarrhea in New York City. <em>GeoHealth</em> 10(4), e2025GH001694 doi:10.1029/2025GH001694 <a href="https://doi.org/10.1029/2025GH001694">[link]</a></li>
     <li>Liu, S.†, Wang, S., <strong>Zhang, L.</strong> (2025) Daily land surface temperature reconstruction in Landsat cross-track areas using deep ensemble learning with uncertainty quantification. <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> 63, 5011018 doi:10.1109/TGRS.2025.3643985 <a href="https://doi.org/10.1109/TGRS.2025.3643985">[link]</a> <a href="https://arxiv.org/abs/2502.14433">[arXiv preprint]</a></li>
     <li>Liu, S.†, <strong>Zhang L.</strong>, Wang, S. A novel and practical approach to generate all-weather 30-meter land surface temperature data. <em>IGARSS 2025</em> (3rd place out of 340+ submissions in the student paper competition)</li>
@@ -195,6 +202,8 @@ In case this publication list is not up-to-date, my [Google Scholar page](https:
   <h4>Other Collaborations</h4>
   <ul>
     <li>Kowal, T., Narongkiatikhun, P., Choi, Y. J., D'Antonio, M., Leidholt, S., Weissenkampen, D., Pinzon Cortes, J. A., Street, K., <strong>Zhang, L.</strong>, Miller, K., Conti, D., Nelson, J., Pyle, L., Bjornstad, P. & Goodrich, J. (2026) Integrating Multiomic and Spatial Imaging Data from Kidney Tissue to Elucidate Mechanisms, Therapeutic Targets, and Clinical Trajectories in Diabetic Kidney Disease: A Narrative Review. Accepted by <em>Clinical Chemistry</em>.</li>
+    <li>[submitted] Ramos Aguilera, D., Wang, Y.†, <strong>Zhang, L.</strong>, Zhang, J. & Sanders, K. T. Assessing disparities in air conditioning operation across Southern California. 2026</li>
+    <li>[submitted] Guo, F., <strong>Zhang, L.</strong>, Chen, X., Whitfield, L., Yan, M., Li, Y., McConnell, R., Gauderman, J., Breton, C., Hodis, H. N. & Farzan, S. Life course BMI and subclinical atherosclerosis in young adulthood: identifying a sensitive window using Bayesian relevant life-course exposure models. 2026</li>
     <li>Pan, S., <strong>Zhang, L.</strong>, Bradley, J., Banerjee, S. (2026) Bayesian Inference for Spatial-Temporal Non-Gaussian Data Using Predictive Stacking. <em>Bayesian Analysis</em> (Advance publication) doi:10.1214/25-BA1582 <a href="https://doi.org/10.1214/25-BA1582">[link]</a> <a href="https://arxiv.org/abs/2406.04655">[arXiv preprint]</a></li>
     <li>Lu, Y., Zhang, X., Neyestani, S., Li, X., Jing, L., <strong>Zhang, L.</strong>, Habre, R., Zhang, J. (2025) Assessing Indoor Versus Outdoor PM2.5 Concentrations During the 2025 Los Angeles Fires Using the PurpleAir Sensor Network.  <em>ACS ES&T Air </em> doi: 10.1021/acsestair.5c00302 <a href="https://pubs.acs.org/doi/abs/10.1021/acsestair.5c00302 ">[link]</a> </li>
     <li>Guo, F., Chen, X., Howland, S., Niu, Z., <strong>Zhang, L.</strong>, Gauderman, J., McConnell, R., Pavlovic, N., Lurmann, F., Bastain, T., Habre, R., Breton, C. & Farzan, S. (2025) Childhood Exposure to Air Pollution, Body Mass Index Trajectories, and Insulin Resistance Among Young Adults. <em>JAMA Network Open</em> <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833125">[link]</a></li>
