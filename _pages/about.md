@@ -19,6 +19,10 @@ My research interests include statistical modeling and analysis of spatial and s
 ## News
 
 <div class="news-section">
+   <div class="news-item">2026/09: I’m delighted to share that I’ve become a mother. Welcome to the world, my dear daughter!</div>
+   <div class="news-item">2026/08: Talk(Recorded) at JSM 2026</div>
+   <div class="news-item">2026/07: Awarded department Affinity Group Program funding as PI for <em>SHIELD: Safe Health Intelligence for Extreme-Weather Local Defense</em>.</div>
+   <div class="news-item">2026/06: Awarded SCEHSC 2026 Environmental Health Pilot Project funding as PI for <em>Deep Learning for the Neural Exposome: Modeling Nonlinear Gene–Environment Interactions in Adolescent Brain Development</em>.</div>
    <div class="news-item">2026/05: Talk at STATGEN 2026</div>
    <div class="news-item">2026/04: Talk at  The NIH Health and Extreme Weather program symposium,</div>
   <div class="news-item">2026/03: <a href="https://skrisliu.com">Shengjie</a> defended his dissertation, congrats Dr. Liu! </div>
